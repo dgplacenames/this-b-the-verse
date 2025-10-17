@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>This b the verse</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="poem-selector">
+                <label for="poem-select">Poem:</label>
+                <select id="poem-select" onchange="changePoem()">
+                    <!-- Options loaded dynamically -->
+                </select>
+            </div>
+            <h1>Match the b-verse to complete the line</h1>
+            <div class="spacer"></div>
+        </div>
+        
+        <div id="loading" class="loading">Loading poem...</div>
+        
+        <div id="quiz" style="display: none;">
+            <div class="score">
+                Score: <span id="correct">0</span> / <span id="total">0</span>
+            </div>
+            
+            <div class="quiz-content">
+                <div class="question-box">
+                    <div class="line-number">Line <span id="lineNum"></span></div>
+                    <div class="a-verse" id="aVerse"></div>
+                </div>
+                
+                <div class="options-container">
+                    <div class="options" id="options"></div>
+                </div>
+            </div>
+            
+            <div class="feedback" id="feedback"></div>
+            
+            <div class="buttons">
+                <button id="checkBtn" onclick="checkAnswer()" disabled>Check Answer</button>
+                <button id="nextBtn" onclick="nextQuestion()" style="display: none;">Next Question</button>
+            </div>
+        </div>
+        
+        <div class="attribution">
+            Poem text from the <a id="attribution-link" href="https://clasp.ell.ox.ac.uk/db-latest/poem/A.4.1" target="_blank">University of Oxford CLASP Project</a>, distributed under <a href="http://creativecommons.org/licenses/by-sa/3.0/" target="_blank">CC BY-SA 3.0</a>. Site by <a href="https://github.com/dgplacenames/this-b-the-verse" target="_blank">Colin Mackenzie</a>.
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

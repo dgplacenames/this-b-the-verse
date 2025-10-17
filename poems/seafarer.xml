@@ -1,0 +1,670 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Seafarer</title>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>
+               <name>University of Oxford CLASP Project</name>
+               <email>nick.white@ell.ox.ac.uk</email>
+            </distributor>
+            <idno type="ota">https://clasp.ell.ox.ac.uk/poem/A.3.9</idno>
+            <availability status="free">
+               <licence target="http://creativecommons.org/licenses/by-sa/3.0/">
+                  Distributed by the University of Oxford under a Creative Commons
+                  Attribution-ShareAlike 3.0 Unported License
+               </licence>
+            </availability>
+         </publicationStmt>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy xml:id="LCSH">
+               <bibl>Library of Congress Subject Headings</bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="ang">English, Old (ca. 450-1100)</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="#LCSH">
+               <term type="genre">Poems</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <head>The Seafarer</head>
+         
+            <div>
+            
+	       <l>mæg ic be me sylfum
+               <caesura/>
+	       soðgied wrecan
+               </l>
+            
+	       <l>siðas secgan
+               <caesura/>
+	       hu ic geswincdagum
+               </l>
+            
+	       <l>earfoðhwile
+               <caesura/>
+	       oft ðrowade
+               </l>
+            
+	       <l>bitre breostceare
+               <caesura/>
+	       gebiden hæbbe
+               </l>
+            
+	       <l>gecunnad in ceole
+               <caesura/>
+	       cearselda fela
+               </l>
+            
+	       <l>atol yða gewealc
+               <caesura/>
+	       ðær mec oft bigeat
+               </l>
+            
+	       <l>nearo nihtwaco
+               <caesura/>
+	       æt nacan stefnan
+               </l>
+            
+	       <l>ðonne he be clifum cnossað
+               <caesura/>
+	       calde geðrungen
+               </l>
+            
+	       <l>wæron mine fet
+               <caesura/>
+	       forste gebunden
+               </l>
+            
+	       <l>caldum clommum
+               <caesura/>
+	       ðær ða ceare seofedun
+               </l>
+            
+	       <l>hat ymb heortan
+               <caesura/>
+	       hungor innan slat
+               </l>
+            
+	       <l>merewerges mod
+               <caesura/>
+	       ðæt se mon ne wat
+               </l>
+            
+	       <l>ðe him on foldan
+               <caesura/>
+	       fægrost limpeð
+               </l>
+            
+	       <l>hu ic earmcearig
+               <caesura/>
+	       iscealdne sæ
+               </l>
+            
+	       <l>winter wunade
+               <caesura/>
+	       wræccan lastum
+               </l>
+            
+	       <l>winemægum bidroren
+               </l>
+            
+	       <l>bihongen hrimgicelum
+               <caesura/>
+	       hægl scurum fleag
+               </l>
+            
+	       <l>ðær ic ne gehyrde
+               <caesura/>
+	       butan hlimman sæ
+               </l>
+            
+	       <l>iscaldne wæg
+               <caesura/>
+	       hwilum ylfete song
+               </l>
+            
+	       <l>dyde ic me to gomene
+               <caesura/>
+	       ganetes hleoðor
+               </l>
+            
+	       <l>ond huilpan sweg
+               <caesura/>
+	       fore hleahtor wera
+               </l>
+            
+	       <l>mæw singende
+               <caesura/>
+	       fore medodrince
+               </l>
+            
+	       <l>stormas ðær stanclifu beotan
+               <caesura/>
+	       ðær him stearn oncwæð
+               </l>
+            
+	       <l>isigfeðera
+               <caesura/>
+	       ful oft ðæt earn bigeal
+               </l>
+            
+	       <l>urigfeðra
+               <caesura/>
+	       ne ænig hleomæga
+               </l>
+            
+	       <l>feasceaftig ferð
+               <caesura/>
+	       frefran meahte
+               </l>
+            
+	       <l>forðon him gelyfeð lyt
+               <caesura/>
+	       se ðe ah lifes wyn
+               </l>
+            
+	       <l>gebiden in burgum
+               <caesura/>
+	       bealosiða hwon
+               </l>
+            
+	       <l>wlonc ond wingal
+               <caesura/>
+	       hu ic werig oft
+               </l>
+            
+	       <l>in brimlade
+               <caesura/>
+	       bidan sceolde
+               </l>
+            
+	       <l>nap nihtscua
+               <caesura/>
+	       norðan sniwde
+               </l>
+            
+	       <l>hrim hrusan bond
+               <caesura/>
+	       hægl feol on eorðan
+               </l>
+            
+	       <l>corna caldast
+               <caesura/>
+	       forðon cnyssað nu
+               </l>
+            
+	       <l>heortan geðohtas
+               <caesura/>
+	       ðæt ic hean streamas
+               </l>
+            
+	       <l>sealtyða gelac
+               <caesura/>
+	       sylf cunnige
+               </l>
+            
+	       <l>monað modes lust
+               <caesura/>
+	       mæla gehwylce
+               </l>
+            
+	       <l>ferð to feran
+               <caesura/>
+	       ðæt ic feor heonan
+               </l>
+            
+	       <l>elðeodigra
+               <caesura/>
+	       eard gesece
+               </l>
+            
+	       <l>forðon nis ðæs modwlonc
+               <caesura/>
+	       mon ofer eorðan
+               </l>
+            
+	       <l>ne his gifena ðæs god
+               <caesura/>
+	       ne in geoguðe to ðæs hwæt
+               </l>
+            
+	       <l>ne in his dædum to ðæs deor
+               <caesura/>
+	       ne him his dryhten to ðæs hold
+               </l>
+            
+	       <l>ðæt he a his sæfore
+               <caesura/>
+	       sorge næbbe
+               </l>
+            
+	       <l>to hwon hine dryhten
+               <caesura/>
+	       gedon wille
+               </l>
+            
+	       <l>ne bið him to hearpan hyge
+               <caesura/>
+	       ne to hringðege
+               </l>
+            
+	       <l>ne to wife wyn
+               <caesura/>
+	       ne to worulde hyht
+               </l>
+            
+	       <l>ne ymbe owiht elles
+               <caesura/>
+	       nefne ymb yða gewealc
+               </l>
+            
+	       <l>ac a hafað longunge
+               <caesura/>
+	       se ðe on lagu fundað
+               </l>
+            
+	       <l>bearwas blostmum nimað
+               <caesura/>
+	       byrig fægriað
+               </l>
+            
+	       <l>wongas wlitigað
+               <caesura/>
+	       woruld onetteð
+               </l>
+            
+	       <l>ealle ða gemoniað
+               <caesura/>
+	       modes fusne
+               </l>
+            
+	       <l>sefan to siðe
+               <caesura/>
+	       ðam ðe swa ðenceð
+               </l>
+            
+	       <l>on flodwegas
+               <caesura/>
+	       feor gewitan
+               </l>
+            
+	       <l>swylce geac monað
+               <caesura/>
+	       geomran reorde
+               </l>
+            
+	       <l>singeð sumeres weard
+               <caesura/>
+	       sorge beodeð
+               </l>
+            
+	       <l>bitter in breosthord
+               <caesura/>
+	       ðæt se beorn ne wat
+               </l>
+            
+	       <l>esteadig secg
+               <caesura/>
+	       hwæt ða sume dreogað
+               </l>
+            
+	       <l>ðe ða wræclastas
+               <caesura/>
+	       widost lecgað
+               </l>
+            
+	       <l>forðon nu min hyge hweorfeð
+               <caesura/>
+	       ofer hreðerlocan
+               </l>
+            
+	       <l>min modsefa
+               <caesura/>
+	       mid mereflode
+               </l>
+            
+	       <l>ofer hwæles eðel
+               <caesura/>
+	       hweorfeð wide
+               </l>
+            
+	       <l>eorðan sceatas
+               <caesura/>
+	       cymeð eft to me
+               </l>
+            
+	       <l>gifre ond grædig
+               <caesura/>
+	       gielleð anfloga
+               </l>
+            
+	       <l>hweteð on hwælweg
+               <caesura/>
+	       hreðer unwearnum
+               </l>
+            
+	       <l>ofer holma gelagu
+               <caesura/>
+	       forðon me hatran sind
+               </l>
+            
+	       <l>dryhtnes dreamas
+               <caesura/>
+	       ðonne ðis deade lif
+               </l>
+            
+	       <l>læne on londe
+               <caesura/>
+	       ic gelyfe no
+               </l>
+            
+	       <l>ðæt him eorðwelan
+               <caesura/>
+	       ece stondað
+               </l>
+            
+	       <l>simle ðreora sum
+               <caesura/>
+	       ðinga gehwylce
+               </l>
+            
+	       <l>ær his tid aga
+               <caesura/>
+	       to tweon weorðeð
+               </l>
+            
+	       <l>adl oððe yldo
+               <caesura/>
+	       oððe ecghete
+               </l>
+            
+	       <l>fægum fromweardum
+               <caesura/>
+	       feorh oððringeð
+               </l>
+            
+	       <l>forðon ðæt bið eorla gehwam
+               <caesura/>
+	       æftercweðendra
+               </l>
+            
+	       <l>lof lifgendra
+               <caesura/>
+	       lastworda betst
+               </l>
+            
+	       <l>ðæt he gewyrce
+               <caesura/>
+	       ær he on weg scyle
+               </l>
+            
+	       <l>fremum on foldan
+               <caesura/>
+	       wið feonda nið
+               </l>
+            
+	       <l>deorum dædum
+               <caesura/>
+	       deofle togeanes
+               </l>
+            
+	       <l>ðæt hine ælda bearn
+               <caesura/>
+	       æfter hergen
+               </l>
+            
+	       <l>ond his lof siððan
+               <caesura/>
+	       lifge mid englum
+               </l>
+            
+	       <l>awa to ealdre
+               <caesura/>
+	       ecan lifes blæd
+               </l>
+            
+	       <l>dream mid dugeðum
+               <caesura/>
+	       dagas sind gewitene
+               </l>
+            
+	       <l>ealle onmedlan
+               <caesura/>
+	       eorðan rices
+               </l>
+            
+	       <l>næron nu cyningas
+               <caesura/>
+	       ne caseras
+               </l>
+            
+	       <l>ne goldgiefan
+               <caesura/>
+	       swylce iu wæron
+               </l>
+            
+	       <l>ðonne hi mæst mid him
+               <caesura/>
+	       mærða gefremedon
+               </l>
+            
+	       <l>ond on dryhtlicestum
+               <caesura/>
+	       dome lifdon
+               </l>
+            
+	       <l>gedroren is ðeos duguð eal
+               <caesura/>
+	       dreamas sind gewitene
+               </l>
+            
+	       <l>wuniað ða wacran
+               <caesura/>
+	       ond ðas woruld healdað
+               </l>
+            
+	       <l>brucað ðurh bisgo
+               <caesura/>
+	       blæd is gehnæged
+               </l>
+            
+	       <l>eorðan indryhto
+               <caesura/>
+	       ealdað ond searað
+               </l>
+            
+	       <l>swa nu monna gehwylc
+               <caesura/>
+	       geond middangeard
+               </l>
+            
+	       <l>yldo him on fareð
+               <caesura/>
+	       onsyn blacað
+               </l>
+            
+	       <l>gomelfeax gnornað
+               <caesura/>
+	       wat his iuwine
+               </l>
+            
+	       <l>æðelinga bearn
+               <caesura/>
+	       eorðan forgiefene
+               </l>
+            
+	       <l>ne mæg him ðonne se flæschoma
+               <caesura/>
+	       ðonne him ðæt feorg losað
+               </l>
+            
+	       <l>ne swete forswelgan
+               <caesura/>
+	       ne sar gefelan
+               </l>
+            
+	       <l>ne hond onhreran
+               <caesura/>
+	       ne mid hyge ðencan
+               </l>
+            
+	       <l>ðeah ðe græf wille
+               <caesura/>
+	       golde stregan
+               </l>
+            
+	       <l>broðor his geborenum
+               <caesura/>
+	       byrgan be deadum
+               </l>
+            
+	       <l>maðmum mislicum
+               <caesura/>
+	       ðæt hine mid wille
+               </l>
+            
+	       <l>ne mæg ðære sawle
+               <caesura/>
+	       ðe bið synna ful
+               </l>
+            
+	       <l>gold to geoce
+               <caesura/>
+	       for godes egsan
+               </l>
+            
+	       <l>ðonne he hit ær hydeð
+               <caesura/>
+	       ðenden he her leofað
+               </l>
+            
+	       <l>micel bið se meotudes egsa
+               <caesura/>
+	       forðon hi seo molde oncyrreð
+               </l>
+            
+	       <l>se gestaðelade
+               <caesura/>
+	       stiðe grundas
+               </l>
+            
+	       <l>eorðan sceatas
+               <caesura/>
+	       ond uprodor
+               </l>
+            
+	       <l>dol bið se ðe him his dryhten ne ondrædeð
+               <caesura/>
+	       cymeð him se deað unðinged
+               </l>
+            
+	       <l>eadig bið se ðe eaðmod leofað
+               <caesura/>
+	       cymeð him seo ar of heofonum
+               </l>
+            
+	       <l>meotod him ðæt mod gestaðelað
+               <caesura/>
+	       forðon he in his meahte gelyfeð
+               </l>
+            
+	       <l>stieran mon sceal strongum mode
+               <caesura/>
+	       ond ðæt on staðelum healdan
+               </l>
+            
+	       <l>ond gewis werum
+               <caesura/>
+	       wisum clæne
+               </l>
+            
+	       <l>scyle monna gehwylc
+               <caesura/>
+	       mid gemete healdan
+               </l>
+            
+	       <l>wið leofne ond wið laðne
+               <caesura/>
+	       bealo
+               </l>
+            
+	       <l>ðeah ðe he hine wille fyres
+               <caesura/>
+	       fulne
+               </l>
+            
+	       <l>oððe on bæle
+               <caesura/>
+	       forbærnedne
+               </l>
+            
+	       <l>his geworhtne wine
+               <caesura/>
+	       wyrd bið swiðre
+               </l>
+            
+	       <l>meotud meahtigra
+               <caesura/>
+	       ðonne ænges monnes gehygd
+               </l>
+            
+	       <l>uton we hycgan
+               <caesura/>
+	       hwær we ham agen
+               </l>
+            
+	       <l>ond ðonne geðencan
+               <caesura/>
+	       hu we ðider cumen
+               </l>
+            
+	       <l>ond we ðonne eac tilien
+               <caesura/>
+	       ðæt we to moten
+               </l>
+            
+	       <l>in ða ecan
+               <caesura/>
+	       eadignesse
+               </l>
+            
+	       <l>ðær is lif gelong
+               <caesura/>
+	       in lufan dryhtnes
+               </l>
+            
+	       <l>hyht in heofonum
+               <caesura/>
+	       ðæs sy ðam halgan ðonc
+               </l>
+            
+	       <l>ðæt he usic geweorðade
+               <caesura/>
+	       wuldres ealdor
+               </l>
+            
+	       <l>ece dryhten
+               <caesura/>
+	       in ealle tid
+               </l>
+            
+	       <l>amen
+               </l>
+            
+            </div>
+         
+      </body>
+  </text>
+</TEI>

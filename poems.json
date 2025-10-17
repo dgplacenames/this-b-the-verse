@@ -1,0 +1,14 @@
+{
+  "A.4.1": {
+    "name": "Beowulf",
+    "file": "poems/beowulf.xml"
+  },
+  "A.3.6": {
+    "name": "The Wanderer",
+    "file": "poems/wanderer.xml"
+  },
+  "A.3.9": {
+    "name": "The Seafarer",
+    "file": "poems/seafarer.xml"
+  }
+}
